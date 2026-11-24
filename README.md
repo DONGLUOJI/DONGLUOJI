@@ -8,6 +8,12 @@ Exploring the underlying dynamics of information,
 narratives, attention, expectations, capital,
 and human behavior.
 
+## Featured Research
+
+- [Market Narrative Validation](https://github.com/DONGLUOJI/narrative-engineering/blob/main/docs/market-narrative-validation.md) applies the framework to investment research, with a reusable research card and a hypothetical supply-chain case.
+- [Core Theory](https://github.com/DONGLUOJI/narrative-engineering/blob/main/docs/theory.md) defines the framework and the signals to observe at each stage.
+- [Research Methods](https://github.com/DONGLUOJI/narrative-engineering/blob/main/docs/methods.md) explains how to identify, construct, and test a narrative.
+
 ## About Me
 
 I am developing Narrative Engineering, an
