@@ -2,6 +2,8 @@
 
 **Creator of Narrative Engineering**
 
+[Official website](https://dongluoji.com/) · [Narrative Engineering research](https://github.com/DONGLUOJI/narrative-engineering)
+
 Exploring the underlying dynamics of information,
 narratives, attention, expectations, capital,
 and human behavior.
@@ -30,19 +32,19 @@ Expectations → Capital → Behavior
 
 ## Research Roadmap
 
-- `narrative-engineering`
+- `narrative-engineering`  
   Theoretical frameworks and methodologies.
 
-- `narrative-research`
+- `narrative-research`  
   Research, experiments, and case studies.
 
-- `narrative-os`
+- `narrative-os`  
   AI-powered narrative research systems.
 
-- `narrative-skills`
+- `narrative-skills`  
   Specialized AI agent skills and workflows.
 
-- `narrative-papers`
+- `narrative-papers`  
   Research papers and whitepapers.
 
 ## Philosophy
